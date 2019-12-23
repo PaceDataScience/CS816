@@ -5,3 +5,5 @@ Student: Dhruvil Gandhi
 code:  https://github.com/dhruv857/tam816
 
 Presentation:  https://docs.google.com/presentation/d/1V2iX-OLHYTqoJ0FSEXyBdCsU6_TpA_1sDECAFznCCHE/edit#slide=id.p
+
+Paper:  https://github.com/dhruv857/tam816/blob/master/paper/bare_conf.pdf
